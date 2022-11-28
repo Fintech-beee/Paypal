@@ -1,1 +1,4 @@
 user list for project paypal
+project to focus on dbase cleanup
+transactions are global
+source code password should be stored in vaultpass
